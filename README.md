@@ -37,4 +37,3 @@ It includes:
 - This starter focuses on Firestore logic and Flutter UI. Platform-specific Firebase files are NOT included.
 - You can customize UI, colors, animations further.
 
-Enjoy — Ayush :) 
